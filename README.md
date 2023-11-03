@@ -2,6 +2,9 @@
 
 The QuizMonitor plugin is a powerful tool designed to enhance the integrity of online quizzes and assessments within the Moodle Learning Management System. By seamlessly integrating webcam and screenshot monitoring, this plugin provides a robust solution for proctoring online exams and helps ensure the authenticity of student responses.
 
+**Plugin Type:**
+Mod/Quiz/AccessRule
+
 **Key Features:**
 
 - **Webcam Monitoring:** QuizMonitor enables real-time webcam monitoring during quizzes. Students grant access to their webcams, which are then visible to instructors or administrators during the quiz.
